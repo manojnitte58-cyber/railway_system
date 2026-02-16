@@ -1,0 +1,11 @@
+aimport java.util.scanner;
+class login
+{ 
+  public static void main(string args[])
+  {
+    scanner S=new scanner (system.in);
+    system.out.println("enter the name");
+     name=S.nextInt();
+     system.out.println("name="+name);
+   }
+}

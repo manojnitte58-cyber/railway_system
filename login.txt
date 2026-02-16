@@ -1,4 +1,4 @@
-aimport java.util.scanner;
+import java.util.scanner;
 class login
 { 
   public static void main(string args[])
